@@ -20,7 +20,7 @@ In [vfi_stochastic_income_and_returns](https://github.com/tyrneh/sample_python_c
 
 After calibrating this new stochastic returns model, we find that the savings is linear in wealth, which is what research has shown *(citation needed)*. That is, for high-income type individuals, they will always save a positive portion of their wealth. This then is the root cause of income inequality, as there will be those in the economy who always have realizations of high-income and will accumulate wealth forever. 
 <p align="center">
-<img src="https://github.com/tyrneh/Macro--hetereo_growth_model_stochastic_returns/blob/main/Stochastic%20Income%20Savings%20Policy%20Function.JPG" width="300" height="200">
+<img src="https://github.com/tyrneh/Macro--hetereo_growth_model_stochastic_returns/blob/main/Stochastic%20Returns%20Savings%20Policy%20Function.JPG" width="300" height="200">
 
 *To do:*
 - *figure out why low-income savings rate does not become positive after some sufficient level of wealth*
