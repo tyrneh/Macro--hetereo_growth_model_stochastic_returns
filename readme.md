@@ -18,4 +18,10 @@ However, we see that this standard growth model fails to replicate the large amo
 One possible extension of this heterogenous-agent growth model that researchers have proposed to explain top wealth inequality is to allow for stochastic rates of return ([Benhabib & al, 2014](https://www.researchgate.net/publication/301891020_Wealth_Distribution_and_Social_Mobility_in_the_US_A_Quantitative_Approach)). 
 In [vfi_stochastic_income_and_returns](https://github.com/tyrneh/sample_python_code/blob/main/WIP_neoclassical_growth_model/vfi_stochastic_income_and_returns.ipynb), I attempt to extend this standard model to have stochastic returns. 
 
+After calibrating this new stochastic returns model, we find that the savings is linear in wealth, which is what research has shown *(citation needed)*. That is, for high-income type individuals, they will always save a positive portion of their wealth. This then is the root cause of income inequality, as there will be those in the economy who always have realizations of high-income and will accumulate wealth forever. 
+
+*To do:*
+*- figure out why low-income savings rate does not become positive after some sufficient level of wealth*
+*- figure out why asset distribution statistics imply lower 90th percentile wealth despite savings function implying higher inequality*
+
 
