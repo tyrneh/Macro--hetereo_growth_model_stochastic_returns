@@ -1,3 +1,5 @@
+*WIP*
+
 # Motivation
 
 In the heterogenous-agent neoclassical growth model with stochastic income:
