@@ -12,6 +12,7 @@ We calibrate this model to have a mean asset to mean income ratio of about 3 to 
 See [calibrated model results here](https://github.com/tyrneh/Macro--hetereo_growth_model_stochastic_returns/blob/main/VFI_StochasticIncome-Calibrated.ipynb). This initial code is credited to [Professor Ben Moll](https://benjaminmoll.com/).
 
 However, we see that this standard growth model fails to replicate the large amount of wealth concentration at the top of the wealth distribution in the United States, United Kingdom, and other developed countries. In particular it fails to match statistics like the top 1% wealth sahres. In the US for example, we find that the top 1% of wealth share holds 37% of total wealth, while our model predicts top 1% should hold 2.3% of total wealth. This standard model predicts that the savings function is decreasing in wealth, in both percentage and absolute terms. This is completely wrong compared to what we know from the real world - the wealthiest people save the most. 
+<p align="center">
 <img src="https://github.com/tyrneh/Macro--hetereo_growth_model_stochastic_returns/blob/main/Stochastic%20Income%20Savings%20Policy%20Function.JPG" width="300" height="200">
 
 One possible extension of this heterogenous-agent growth model that researchers have proposed to explain top wealth inequality is to allow for stochastic rates of return ([Benhabib & al, 2014](https://www.researchgate.net/publication/301891020_Wealth_Distribution_and_Social_Mobility_in_the_US_A_Quantitative_Approach)). 
